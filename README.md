@@ -1,1 +1,1 @@
-This project has a lot of yandex eats apiescreated by " Toshtemirov Jobir "
+This project has a lot of yandex eats apies created by " Toshtemirov Jobir "
